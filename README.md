@@ -64,13 +64,13 @@ Transitioning to the cloud, we aim to leverage its scalability, flexibility, and
 
 ## Dive Deeper with Medium Articles
 
-Visit individual Medium articles for a deeper dive into each section of this journey: [The Pulse of Innovation: Unfolding a Seamless Data Pipeline Journey]([url](https://medium.com/@sergio_david/the-pulse-of-innovation-unfolding-a-seamless-data-pipeline-journey-e40e786720c9))
+Visit individual Medium articles for a deeper dive into each section of this journey:[The Pulse of Innovation: Unfolding a Seamless Data Pipeline Journey](https://medium.com/@sergio_david/the-pulse-of-innovation-unfolding-a-seamless-data-pipeline-journey-e40e786720c9)
 
-- **[The Great Data Hunt: Scraping the Web and Unlocking APIs]([url](https://medium.com/@sergio_david/the-great-data-hunt-scraping-the-web-and-unlocking-apis-514251a7e97f))**: The process initiates with data gathering from diverse sources, including APIs and web pages.
-- **[From Chaos to Clarity: The Art of Data Cleaning and Transformation]([url](https://medium.com/@sergio_david/from-chaos-to-clarity-the-art-of-data-cleaning-and-transformation-c57920de19cf))**: Raw data undergoes rigorous cleaning and transformation to be rendered usable.
-- **[Building Castles in the Cloud: A Guide to Database Design and AWS RDS]([url](https://medium.com/@sergio_david/building-castles-in-the-cloud-a-guide-to-database-design-and-aws-rds-1aabc3ad654d))**: The heart of the system, the relational data model, is implemented in MySQL.
-- **[ The Automation Orchestra: Scheduling Harmony with AWS Lambda]([url](https://medium.com/@sergio_david/the-automation-orchestra-scheduling-harmony-with-aws-lambda-521d2a55bd5f))**: Automation ensures a seamless, continuous flow of data.
-- **[Navigating the Maze: Reflections and Wisdom from a Data Pipeline Odyssey]([url](https://medium.com/@sergio_david/navigating-the-maze-reflections-and-wisdom-from-a-data-pipeline-odyssey-94dd38ab94c1)https://medium.com/@sergio_david/navigating-the-maze-reflections-and-wisdom-from-a-data-pipeline-odyssey-94dd38ab94c1)**: Insights into the intricacies and learnings from the project.
+- **[The Great Data Hunt: Scraping the Web and Unlocking APIs](https://medium.com/@sergio_david/the-great-data-hunt-scraping-the-web-and-unlocking-apis-514251a7e97f)**: The process initiates with data gathering from diverse sources, including APIs and web pages.
+- **[From Chaos to Clarity: The Art of Data Cleaning and Transformation](https://medium.com/@sergio_david/from-chaos-to-clarity-the-art-of-data-cleaning-and-transformation-c57920de19cf)**: Raw data undergoes rigorous cleaning and transformation to be rendered usable.
+- **[Building Castles in the Cloud: A Guide to Database Design and AWS RDS](https://medium.com/@sergio_david/building-castles-in-the-cloud-a-guide-to-database-design-and-aws-rds-1aabc3ad654d)**: The heart of the system, the relational data model, is implemented in MySQL.
+- **[The Automation Orchestra: Scheduling Harmony with AWS Lambda](https://medium.com/@sergio_david/the-automation-orchestra-scheduling-harmony-with-aws-lambda-521d2a55bd5f)**: Automation ensures a seamless, continuous flow of data.
+- **[Navigating the Maze: Reflections and Wisdom from a Data Pipeline Odyssey](https://medium.com/@sergio_david/navigating-the-maze-reflections-and-wisdom-from-a-data-pipeline-odyssey-94dd38ab94c1)**: Insights into the intricacies and learnings from the project.
 
 ---
 
