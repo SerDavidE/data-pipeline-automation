@@ -64,7 +64,7 @@ Transitioning to the cloud, we aim to leverage its scalability, flexibility, and
 
 ## Dive Deeper with Medium Articles
 
-Visit individual Medium articles for a deeper dive into each section of this journey:[The Pulse of Innovation: Unfolding a Seamless Data Pipeline Journey](https://medium.com/@sergio_david/the-pulse-of-innovation-unfolding-a-seamless-data-pipeline-journey-e40e786720c9)
+Visit individual Medium articles for a deeper dive into each section of this journey: **[The Pulse of Innovation: Unfolding a Seamless Data Pipeline Journey](https://medium.com/@sergio_david/the-pulse-of-innovation-unfolding-a-seamless-data-pipeline-journey-e40e786720c9)**
 
 - **[The Great Data Hunt: Scraping the Web and Unlocking APIs](https://medium.com/@sergio_david/the-great-data-hunt-scraping-the-web-and-unlocking-apis-514251a7e97f)**: The process initiates with data gathering from diverse sources, including APIs and web pages.
 - **[From Chaos to Clarity: The Art of Data Cleaning and Transformation](https://medium.com/@sergio_david/from-chaos-to-clarity-the-art-of-data-cleaning-and-transformation-c57920de19cf)**: Raw data undergoes rigorous cleaning and transformation to be rendered usable.
